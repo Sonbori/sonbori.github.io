@@ -3912,7 +3912,7 @@ input, select, textarea {
 	float: left;
     width: 300px; /* 원하는 너비 */
     height: 300px; /* 원하는 높이 */
-    border-radius: 40%; /* 이미지 둥글게 */
+    border-radius: 50%; /* 이미지 둥글게 */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 그림자 효과 */
     object-fit: cover; /* 잘리지 않고 균형 유지 */
     margin-top: 10px; /* 위쪽 여백 */
