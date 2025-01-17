@@ -3910,9 +3910,9 @@ input, select, textarea {
 		/* 프로필 이미지 스타일 */
 .profile-image {
 	float: left;
-    width: 150px; /* 원하는 너비 */
-    height: 150px; /* 원하는 높이 */
-    border-radius: 30%; /* 이미지 둥글게 */
+    width: 300px; /* 원하는 너비 */
+    height: 300px; /* 원하는 높이 */
+    border-radius: 40%; /* 이미지 둥글게 */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 그림자 효과 */
     object-fit: cover; /* 잘리지 않고 균형 유지 */
     margin-top: 10px; /* 위쪽 여백 */
