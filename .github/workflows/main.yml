@@ -43,11 +43,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
       - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-        run: |
-          echo "baseurl: /portfolio/template" > _config_temp.yml
-          cat _config.yml >> _config_temp.yml
-          bundle exec jekyll build --config _config_temp.yml --baseurl "/portfolio/template"
+        run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
