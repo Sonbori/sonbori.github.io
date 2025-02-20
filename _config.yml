@@ -1,9 +1,5 @@
-# REQUIRED CHANGES
-# Edit next line to provide your own name.
-title: Molly Maluhia | Professional Portfolio
-# Edit next line, replacing 'techfolios' with your github username
-url: "https://techfolios.github.io"
-# Edit next line so that baseurl is "" if your repo is <username>.github.io
+title: Sonbori | Professional Portfolio
+url: "https://sonbori.github.io"
 baseurl: "/template"
 
 # OPTIONAL CHANGES
