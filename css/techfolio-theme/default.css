@@ -31,7 +31,6 @@
 
 a {
   text-decoration: none;
-  color: #ff5733;
 }
 
 @media (max-width: 500px) {
@@ -48,19 +47,4 @@ a {
 .card-footer {
   background-color: var(--bs-white);
   border-top: none;
-}
-
-body {
-  background-color: #ffffff;
-  color: #000000;
-}
-
-header {
-  background-color: #333333;
-  color: #ffffff;
-}
-
-footer {
-  background-color: #222222;
-  color: #cccccc;
 }
