@@ -1,118 +1,113 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "name": "손보건",
+    "label": "AI Developer",
+    "picture": "https://github.com/Sonbori.png",
+    "email": "thsqhrjs@gmail.com",
+    "phone": "+82-10-7234-6844",
     "website": "https://sonbori.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Machine Learning, Deep Learning, and Data Analysis.",
+    "location": { "address": "", "postalCode": "34134", "city": "Daejeon", "countryCode": "KR", "region": "South Korea" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Sonbori", "url": "https://github.com/Sonbori" },
+      { "network": "linkedin", "username": "보건-손", "url": "https://www.linkedin.com/in/%EB%B3%B4%EA%B1%B4-%EC%86%90-7a0118338/" },
+      { "network": "instagram", "username": "son___b", "url": "https://www.instagram.com/son___b/" }
     ]
   },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
+
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Programming Languages",
+      "keywords": ["Python", "Java", "Kotlin", "C", "C++"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
-  ],
-  "education": [
+      "name": "Machine Learning",
+      "keywords": ["Linear Regression", "Logistic Regression", "Decision Tree", "Random Forest", "PCA", "SVM", "XGBoost", "CatBoost"]
+    },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "name": "Deep Learning",
+      "keywords": ["FNN", "RNN", "LSTM", "CNN", "VGG", "ResNet", "Seq2Seq", "Transformer"]
+    },
+    {
+      "name": "Data Analysis & Big Data",
+      "keywords": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn", "OpenCV"]
+    },
+    {
+      "name": "LLM & NLP",
+      "keywords": ["Natural Language Processing (NLP)", "Large Language Models (LLM)", "Gemini API", "Prompt Engineering", "PrivateGPT"]
     }
   ],
+
+  "tools": [
+    {
+      "name": "Development Environments",
+      "keywords": ["Cursor", "VS Code", "Jupyter Notebook", "Google Colab", "Docker"]
+    },
+    {
+      "name": "Cloud & Deployment",
+      "keywords": ["AWS", "Google Cloud", "FastAPI", "Flask"]
+    }
+  ],
+
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "한국 플랫폼 서비스 기술",
+      "position": "AI Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2023-06-01",
+      "endDate": "2023-09-01",
+      "summary": "Worked on AI model training and data preprocessing for machine learning applications.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Preprocessed large-scale datasets for ML model training",
+        "Implemented deep learning models for classification tasks"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "(주)제이아이티",
+      "position": "AI Research Intern",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-01",
+      "summary": "Developed and fine-tuned deep learning models for NLP applications.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Implemented LLM-based text generation models",
+        "Optimized transformer models for sentiment analysis"
       ]
     }
   ],
+
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "우수상",
+      "date": "2023",
+      "awarder": "교내 아이디어 경진대회",
+      "summary": "AI 기반 솔루션을 활용한 창의적 문제 해결 아이디어 제안"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "최우수상",
+      "date": "2023",
+      "awarder": "교내 캡스톤 디자인 대회",
+      "summary": "딥러닝을 활용한 프로젝트로 최고 성과"
+    },
+    {
+      "title": "최우수상",
+      "date": "2023",
+      "awarder": "ICCT 캡스톤 디자인 대회",
+      "summary": "AI 및 데이터 분석 기술을 적용한 혁신적 프로젝트"
+    },
+    {
+      "title": "우수상",
+      "date": "2023",
+      "awarder": "대전지역 문제해결형 창업 경진대회",
+      "summary": "AI 및 데이터 분석을 활용한 비즈니스 모델 제안"
     }
   ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
+
+  "interests": [
+    { "name": "Artificial Intelligence" },
+    { "name": "Algorithm Optimization" },
+    { "name": "Statistical Mathematics" },
+    { "name": "Data Science" },
+    { "name": "Big Data Engineering" }
   ]
 }
