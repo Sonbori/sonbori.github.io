@@ -27,11 +27,14 @@ layout: home
       </div>
     </div>
 
-    <!-- SNS 링크 -->
+    <!-- SNS 링크 (아이콘 추가) -->
     <div class="row text-center py-2">
       {% for profile in site.data.bio.basics.profiles %}
       <div class="col-lg-4">
-        <p><a href="{{ profile.url }}" target="_blank"><strong>{{ profile.network }}</strong></a></p>
+        <p>
+          <i class="bi bi-{{ profile.network | downcase }}"></i>
+          <a href="{{ profile.url }}" target="_blank"><strong>{{ profile.network }}</strong></a>
+        </p>
       </div>
       {% endfor %}
     </div>
