@@ -52,31 +52,37 @@
   "work": [
     {
       "company": "한국 플랫폼 서비스 기술",
-      "position": "AI Intern",
+      "position": "Web Developer Intern",
       "website": "https://www.kpst.co.kr/kor/index.do",
       "startDate": "2023-06",
       "endDate": "2023-09",
-      "summary": "Worked on AI model training and data preprocessing for machine learning applications.",
+      "summary": "Developed and optimized web applications, focusing on frontend and backend enhancements.",
       "highlights": [
-        "Preprocessed large-scale datasets for ML model training",
-        "Implemented deep learning models for classification tasks"
+        "Developed responsive web pages using HTML, CSS, and JavaScript",
+        "Integrated REST APIs to fetch and display real-time data",
+        "Optimized website performance by reducing load times and improving UI/UX",
+        "Worked with a team to enhance backend logic using Spring Boot",
+        "Collaborated on database design and optimized SQL queries"
       ]
     },
     {
       "company": "(주)제이아이티",
-      "position": "AI Research Intern",
+      "position": "Web Developer Intern",
       "website": "https://blog.naver.com/jit_onshape",
       "startDate": "2023-12",
       "endDate": "2024-02",
-      "summary": "Developed and fine-tuned deep learning models for NLP applications.",
-      "highlights": [
-        "Implemented LLM-based text generation models",
-        "Optimized transformer models for sentiment analysis"
+      "summary": "Contributed to the development of dynamic web applications and improved system scalability.",
+  "highlights": [
+    "Developed dynamic UI components using React.js",
+    "Implemented authentication and authorization using JWT",
+    "Optimized frontend code structure for maintainability and reusability",
+    "Enhanced RESTful API integration and improved data handling",
+    "Participated in code reviews and debugging sessions to improve application stability"
       ]
     },
     {
-      "company": "한국항공우주연구원 (Aerospace Research Institute)",
-      "position": "AI Research Student",
+      "company": "한국항공우주연구원 (KARI)",
+      "position": "Research Student",
       "website": "https://www.kari.re.kr/kor.do",
       "startDate": "2024",
       "endDate": "2024",
