@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "손보건",
+    "name": "Son Bo Geon",
     "label": "AI Developer",
     "picture": "https://github.com/Sonbori.png",
     "email": "thsqhrjs@gmail.com",
     "phone": "+82-10-7234-6844",
     "website": "https://sonbori.github.io",
-    "summary": "Machine Learning, Deep Learning, and Data Analysis.",
+    "summary": "Prompt Engineering, Machine Learning, Deep Learning, and Data Analysis.",
     "location": { "address": "", "postalCode": "34134", "city": "Daejeon", "countryCode": "KR", "region": "South Korea" },
     "profiles": [
       { "network": "github", "username": "Sonbori", "url": "https://github.com/Sonbori" },
@@ -53,9 +53,9 @@
     {
       "company": "한국 플랫폼 서비스 기술",
       "position": "AI Intern",
-      "website": "",
-      "startDate": "2023-06-01",
-      "endDate": "2023-09-01",
+      "website": "https://www.kpst.co.kr/kor/index.do",
+      "startDate": "2023-06",
+      "endDate": "2023-09",
       "summary": "Worked on AI model training and data preprocessing for machine learning applications.",
       "highlights": [
         "Preprocessed large-scale datasets for ML model training",
@@ -65,13 +65,26 @@
     {
       "company": "(주)제이아이티",
       "position": "AI Research Intern",
-      "website": "",
-      "startDate": "2023-09-01",
-      "endDate": "2023-12-01",
+      "website": "https://blog.naver.com/jit_onshape",
+      "startDate": "2023-12",
+      "endDate": "2024-02",
       "summary": "Developed and fine-tuned deep learning models for NLP applications.",
       "highlights": [
         "Implemented LLM-based text generation models",
         "Optimized transformer models for sentiment analysis"
+      ]
+    },
+    {
+      "company": "한국항공우주연구원 (Aerospace Research Institute)",
+      "position": "AI Research Student",
+      "website": "https://www.kari.re.kr/kor.do",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "Studied satellite communication and climate data transmission.",
+      "highlights": [
+        "Learned about satellite communication protocols",
+        "Analyzed climate observation data transmission techniques",
+        "Studied space data processing and AI applications in aerospace"
       ]
     }
   ],
@@ -79,13 +92,13 @@
   "awards": [
     {
       "title": "우수상",
-      "date": "2023",
+      "date": "2021",
       "awarder": "교내 아이디어 경진대회",
       "summary": "AI 기반 솔루션을 활용한 창의적 문제 해결 아이디어 제안"
     },
     {
       "title": "최우수상",
-      "date": "2023",
+      "date": "2022",
       "awarder": "교내 캡스톤 디자인 대회",
       "summary": "딥러닝을 활용한 프로젝트로 최고 성과"
     },
@@ -97,13 +110,14 @@
     },
     {
       "title": "우수상",
-      "date": "2023",
+      "date": "2024",
       "awarder": "대전지역 문제해결형 창업 경진대회",
       "summary": "AI 및 데이터 분석을 활용한 비즈니스 모델 제안"
     }
   ],
 
   "interests": [
+    { "name": "Prompt Engineering" },
     { "name": "Artificial Intelligence" },
     { "name": "Algorithm Optimization" },
     { "name": "Statistical Mathematics" },
