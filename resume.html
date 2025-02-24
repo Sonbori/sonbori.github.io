@@ -32,12 +32,21 @@ layout: home
       {% for profile in site.data.bio.basics.profiles %}
       <div class="col-lg-4">
         <p>
-          <i class="bi bi-{{ profile.network | downcase }}"></i>
+          {% if profile.network == "GitHub" %}
+            <i class="bi bi-github"></i>
+          {% elsif profile.network == "LinkedIn" %}
+            <i class="bi bi-linkedin"></i>
+          {% elsif profile.network == "Instagram" %}
+            <i class="bi bi-instagram"></i>
+          {% else %}
+            <i class="bi bi-link"></i>
+          {% endif %}
           <a href="{{ profile.url }}" target="_blank"><strong>{{ profile.network }}</strong></a>
         </p>
       </div>
       {% endfor %}
     </div>
+
 
     <!-- 관심 분야 -->
     <div class="row py-4">
