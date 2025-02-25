@@ -1,19 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
-# All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+title: "미래를 향한 발걸음"
+date: 2025-02-24
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - AI 개발
+  - 학습
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/stepping/future.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+인공지능(AI)은 언제나 나를 매료시켜 왔다. AI가 학습하고, 적응하며, 우리가 상상하지 못한 방식으로 산업을 변화시키는 모습은 그 자체로 혁신적이다. 잘 설계된 알고리즘이 데이터를 학습하며 점점 정교해지듯, 나 역시 지속적인 학습과 경험을 통해 성장하고 있다.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+처음에는 AI가 너무 어렵고 멀게만 느껴졌다. 그러나 점차 깊이 탐구할수록 AI는 단순히 복잡한 모델과 방대한 데이터를 다루는 것이 아니라 창의적 문제 해결과 기술을 통해 인간의 역량을 확장하는 과정이라는 것을 깨달았다. AI 개발은 단순히 코드를 작성하는 것을 넘어, ‘생각하고 학습하며 발전하는 시스템’을 설계하는 일이다.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+현재 나는 AI, 풀스택 개발, 데이터 분석 등 다양한 프로젝트를 진행하고 있다. 이를 통해 기술이 어떻게 실질적인 문제를 해결할 수 있는지 배우고 있으며, 앞으로도 계속 도전해 나갈 것이다.
