@@ -9,7 +9,7 @@ labels:
   - 학습
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/stepping/future.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/stepping/datascience.jpg">
 
 인공지능(AI)은 언제나 나를 매료시켜 왔다. AI가 학습하고, 적응하며, 우리가 상상하지 못한 방식으로 산업을 변화시키는 모습은 그 자체로 혁신적이다. 잘 설계된 알고리즘이 데이터를 학습하며 점점 정교해지듯, 나 역시 지속적인 학습과 경험을 통해 성장하고 있다.
 
