@@ -52,45 +52,45 @@
   "work": [
     {
       "company": "한국 플랫폼 서비스 기술",
-      "position": "Web Developer Intern",
+      "position": "웹 개발 인턴",
       "website": "https://www.kpst.co.kr/kor/index.do",
       "startDate": "2023-06",
       "endDate": "2023-09",
-      "summary": "Developed and optimized web applications, focusing on frontend and backend enhancements.",
+      "summary": "프론트엔드 및 백엔드 개선을 중심으로 웹 애플리케이션을 개발 및 최적화함.",
       "highlights": [
-        "Developed responsive web pages using HTML, CSS, and JavaScript",
-        "Integrated REST APIs to fetch and display real-time data",
-        "Optimized website performance by reducing load times and improving UI/UX",
-        "Worked with a team to enhance backend logic using Spring Boot",
-        "Collaborated on database design and optimized SQL queries"
+        "HTML, CSS, JavaScript를 활용한 반응형 웹 페이지 개발",
+        "REST API를 통합하여 실시간 데이터 가져오기 및 표시 기능 구현",
+        "웹사이트 성능 최적화(로딩 시간 단축 및 UI/UX 개선)",
+        "Spring Boot를 활용한 백엔드 로직 개선 작업 참여",
+        "데이터베이스 설계 협업 및 SQL 쿼리 최적화"
       ]
     },
     {
       "company": "(주)제이아이티",
-      "position": "Web Developer Intern",
+      "position": "웹 개발 인턴",
       "website": "https://blog.naver.com/jit_onshape",
       "startDate": "2023-12",
       "endDate": "2024-02",
-      "summary": "Contributed to the development of dynamic web applications and improved system scalability.",
-  "highlights": [
-    "Developed dynamic UI components using React.js",
-    "Implemented authentication and authorization using JWT",
-    "Optimized frontend code structure for maintainability and reusability",
-    "Enhanced RESTful API integration and improved data handling",
-    "Participated in code reviews and debugging sessions to improve application stability"
+      "summary": "동적 웹 애플리케이션 개발 및 시스템 확장성 개선에 기여함.",
+      "highlights": [
+        "React.js를 활용한 동적 UI 컴포넌트 개발",
+        "JWT 기반 인증 및 권한 관리 시스템 구현",
+        "유지보수와 재사용성을 고려한 프런트엔드 코드 구조 최적화",
+        "RESTful API 통합 및 데이터 처리 최적화",
+        "코드 리뷰 및 디버깅 세션 참여를 통해 애플리케이션 안정성 향상"
       ]
     },
     {
       "company": "한국항공우주연구원 (KARI)",
-      "position": "Research Student",
+      "position": "연구 학생",
       "website": "https://www.kari.re.kr/kor.do",
       "startDate": "2024",
       "endDate": "2024",
-      "summary": "Studied satellite communication and climate data transmission.",
+      "summary": "인공위성 통신 및 기후 데이터 전송 기술을 연구함.",
       "highlights": [
-        "Learned about satellite communication protocols",
-        "Analyzed climate observation data transmission techniques",
-        "Studied space data processing and AI applications in aerospace"
+        "인공위성 통신 프로토콜 학습",
+        "기후 관측 데이터 전송 기술 분석",
+        "항공우주 분야의 데이터 처리 및 AI 적용 연구"
       ]
     }
   ],
