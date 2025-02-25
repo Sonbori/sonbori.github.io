@@ -48,31 +48,3 @@ a {
   background-color: var(--bs-white);
   border-top: none;
 }
-
-/* 🛠️ Footer를 항상 화면 하단에 고정 */
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-.wrapper {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh; /* 화면 전체 높이 */
-}
-
-.main-content {
-  flex: 1; /* 컨텐츠가 부족해도 footer를 아래로 밀어줌 */
-}
-
-.footer {
-  position: relative;
-  width: 100%;
-  bottom: 0;
-  left: 0;
-  background-color: #f8f9fa; /* 필요에 따라 조정 */
-  padding: 10px 0;
-  text-align: center;
-}
-

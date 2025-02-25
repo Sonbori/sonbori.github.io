@@ -19,3 +19,8 @@ labels:
 
 현재 나는 AI, 풀스택 개발, 데이터 분석 등 다양한 프로젝트를 진행하고 있다.
 이를 통해 기술이 어떻게 실질적인 문제를 해결할 수 있는지 배우고 있으며, 앞으로도 계속 도전해 나갈 것이다.
+
+test
+tes
+t
+stzcxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
